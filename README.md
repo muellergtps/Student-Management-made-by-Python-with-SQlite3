@@ -1,2 +1,2 @@
 # Student-Management-made-by-Python-with-SQlite3
-hi , holla , hai , hallo.
+I making Student System Management School with Python & SQlite3 
