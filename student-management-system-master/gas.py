@@ -3,7 +3,7 @@ from posixpath import split
 from secrets import choice
 import sqlite3
 
-# STudent-Management-Project By Ryve X Imanroem
+# STudent-Management-Project By Ryve X cumancode
 kont = sqlite3.connect('local/data_get.db')
 apa = kont.cursor()
 
@@ -63,8 +63,8 @@ while (loop):
 # Pesan Moral : Mending Turu 😅👆 ~~~ Indonesia
 # Moral Expression : Better sleep 😅👆 ~~~ English
 
-# Ryve X Imanroem | Project Newbie ~~~ English
-# Ryve X Imanroem | Projek Pemula ~~~ Indonesia 
+# Ryve X cumancode | Project Newbie ~~~ English
+# Ryve X cumancode | Projek Pemula ~~~ Indonesia 
 
 # This file has finish Monday , 11 July 2022 08:46pm ~~~ English
 # File ini selesai dibuat Senin , 11 Juli 2022 08:46pm ~~~ Indonesia
